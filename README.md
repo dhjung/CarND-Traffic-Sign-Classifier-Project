@@ -15,9 +15,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/tsc1.jpg "Visualization"
-[image2]: ./examples/tsc2.jpg "Grayscaling"
-[image3]: ./examples/tsc3.jpg "GermanTrafficSign"
+[image1]: ./examples/tsc1.png "Visualization"
+[image2]: ./examples/tsc2.png "Grayscaling"
+[image3]: ./examples/tsc3.png "GermanTrafficSign"
 
 
 ---
