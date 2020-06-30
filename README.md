@@ -51,7 +51,7 @@ However, I leave room for future improvement because only grayscaled images and 
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image1]
+![alt text][image2]
 
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
